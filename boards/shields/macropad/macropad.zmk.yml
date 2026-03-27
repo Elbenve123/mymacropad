@@ -1,6 +1,0 @@
-file_format: "1"
-id: macropad
-name: Macropad 4x3
-type: shield
-requires:
-  - pro_micro
